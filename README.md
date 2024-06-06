@@ -59,3 +59,7 @@ Os dados de distância e temperatura serão exibidos no Serial Monitor da IDE do
 **Dependências:**
 
 O código necessário se encontra tanto no nosso anquivo main aqui do projeto, como também está incluído no projeto feito pelo site Wokwi. Aconselha-mos que faça o projeto primeiramente pelos sites simuladores antes de fazer diretamente no IDE do Arduino
+
+**<h2>Link do video demosntração</h2>**
+
+https://youtu.be/LIc4t6UxqMw
